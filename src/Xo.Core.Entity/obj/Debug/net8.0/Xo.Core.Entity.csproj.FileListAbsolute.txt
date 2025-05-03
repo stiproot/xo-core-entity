@@ -1,5 +1,0 @@
-/Users/simon.stipcich/code/repo/xo-core-entity/src/Xo.Core.Entity/obj/Debug/net8.0/Xo.Core.Entity.csproj.AssemblyReference.cache
-/Users/simon.stipcich/code/repo/xo-core-entity/src/Xo.Core.Entity/obj/Debug/net8.0/Xo.Core.Entity.GeneratedMSBuildEditorConfig.editorconfig
-/Users/simon.stipcich/code/repo/xo-core-entity/src/Xo.Core.Entity/obj/Debug/net8.0/Xo.Core.Entity.AssemblyInfoInputs.cache
-/Users/simon.stipcich/code/repo/xo-core-entity/src/Xo.Core.Entity/obj/Debug/net8.0/Xo.Core.Entity.AssemblyInfo.cs
-/Users/simon.stipcich/code/repo/xo-core-entity/src/Xo.Core.Entity/obj/Debug/net8.0/Xo.Core.Entity.csproj.CoreCompileInputs.cache
