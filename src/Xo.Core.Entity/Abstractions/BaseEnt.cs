@@ -8,5 +8,5 @@ public abstract class BaseEnt
 	public bool Deleted { get; set; } = false;
 
 	[Required]
-	public DateTime Timestamp { get; set; } = DateTime.UtcNow;
+	public DateTime Ts { get; set; } = DateTime.UtcNow;
 }
